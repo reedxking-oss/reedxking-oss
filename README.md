@@ -27,7 +27,7 @@ I am a **Data Analyst** experienced in operational and manufacturing environment
 ---
 
 ## 📌 Projects
-Welcome to my portfolio, where I showcase my projects 👉 [View Projects](EMBED LINK HERE)
+Welcome to my portfolio, where I showcase my projects 👉 [View Project Portfolio](https://github.com/reedxking-oss/Portfolio)
 
 ---
 
